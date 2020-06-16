@@ -6,7 +6,7 @@ firelens -> fluent-bit-datadog-firehose -> datadog and firehose
 
 ## require environment
 
-### dataodg
+### datadog
 |environment|
 |:---|
 |DD_API_KEY|
